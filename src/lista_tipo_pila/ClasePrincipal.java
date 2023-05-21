@@ -13,6 +13,7 @@ public class ClasePrincipal {
 
                 opcion = Integer.parseInt(JOptionPane.showInputDialog(null,
                         "Menú de Opciones\n\n"
+                        + "0. Probando...\n"
                         + "1. Insertar un nodo\n"
                         + "2. Eliminar un nodo\n"
                         + "3. ¿La Pila esta vacia?\n"
